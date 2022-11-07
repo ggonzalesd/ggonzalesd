@@ -1,7 +1,4 @@
 # I'm GGonzales 👋
 
-<img src="image.gif" alt="drawing" width="90"/>
-<img src="image.gif" alt="drawing" width="90"/>
-<img src="image.gif" alt="drawing" width="90"/>
-
-This is epic!
+This is epic! 🌌
+<img src="giphy.webp" alt="drawing" width="100%"/>
