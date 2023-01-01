@@ -15,5 +15,5 @@
 
 <b>This is epic! 🌌</b>
 <br>
-<img style="border-radius: 20px; filter: saturate(1.5)" src="giphy.webp" alt="drawing" width="90%"/>
+<img style="border-radius: 20px; filter: saturate(1.5)" src="giphy.webp" alt="drawing" width="100%"/>
 
