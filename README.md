@@ -1,6 +1,6 @@
 # I'm GGonzales 👋
 
-## Languages
+## Skills
 
 [![My Skills](https://skills.thijs.gg/icons?i=angular,c,css,go,html,java,js,nodejs,postgres,py,react,ts&theme=light)](https://skills.thijs.gg)
 
