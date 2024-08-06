@@ -6,7 +6,7 @@ import path from 'node:path';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'ggonzalesd',
+  base: 'GGonzalesD',
   resolve: {
     alias: [
       {
