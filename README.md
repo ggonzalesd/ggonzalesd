@@ -9,7 +9,7 @@
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,angular,vite,js,ts,nodejs,html,css,tailwind,mui&theme=dark)](https://skills.thijs.gg)
+[![Frontend](https://skillicons.dev/icons?i=react,angular,vite,js,ts,nodejs,html,css,tailwind,next&theme=dark)](https://skills.thijs.gg)
 
 ### Backend
 
