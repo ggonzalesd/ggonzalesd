@@ -2,8 +2,10 @@
 
 ## Social Media
 
+email: grober_gonzales@hotmail.com
+phone: +52 946 814 055
+
 ![](https://komarev.com/ghpvc/?username=ggonzalesd)
-[![Twitter](https://shields.io/badge/Tweet--lightgrey?logo=twitter&style=social)](https://twitter.com/EricksonGonza)
 
 ## Skills
 
