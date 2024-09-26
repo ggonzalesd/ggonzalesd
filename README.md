@@ -2,8 +2,9 @@
 
 ## Social Media
 
-email: grober_gonzales@hotmail.com
-phone: +52 946 814 055
+> email: grober_gonzales@hotmail.com
+
+> phone: +51 946 814 055
 
 ![](https://komarev.com/ghpvc/?username=ggonzalesd)
 
