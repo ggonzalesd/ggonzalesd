@@ -1,11 +1,13 @@
-# I'm GGonzales 👋
+<div style="width:100%; background-color:#226; display:flex; justify-content:center; padding: 10px 0px">
+  <h1>I'm GGonzales 👋</h1>
+</div>
+<br/>
 
 > Check my projects https://ggonzalesd.vercel.app/proyectos
 
 ## Social Media
 
-> email: grober_gonzales@hotmail.com
-
+> email: grober_gonzales@hotmail.com<br/>
 > phone: +51 946 814 055
 
 ![](https://komarev.com/ghpvc/?username=ggonzalesd)
@@ -14,15 +16,15 @@
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,angular,vite,js,ts,nodejs,html,css,tailwind,next&theme=dark)](https://skills.thijs.gg)
+[![Frontend](https://skillicons.dev/icons?i=react,astro,js,ts,nodejs,tailwind,next)](https://skills.thijs.gg)
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nestjs,express,spring,java,dotnet,go,laravel&theme=dark)](https://skills.thijs.gg)
+[![Backend](https://skillicons.dev/icons?i=nestjs,express,spring,dotnet&theme=dark)](https://skills.thijs.gg)
 
 ### Database
 
-[![Database](https://skillicons.dev/icons?i=postgres,docker,linux,arch&theme=dark)](https://skills.thijs.gg)
+[![Database](https://skillicons.dev/icons?i=postgres,docker,firebase,supabase,linux&theme=dark)](https://skills.thijs.gg)
 
 ### Artificial Intelligence | Data Science
 
