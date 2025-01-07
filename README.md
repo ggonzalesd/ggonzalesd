@@ -3,7 +3,7 @@
 </div>
 <br/>
 
-> Check my projects https://ggonzalesd.vercel.app/proyectos
+> Check my projects https://ggonzalesd.vercel.app/en/projects
 
 ## Social Media
 
@@ -14,21 +14,25 @@
 
 ## Skills
 
-### Frontend
+#### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,astro,js,ts,nodejs,tailwind,next)](https://skills.thijs.gg)
+[![Frontend](https://skillicons.dev/icons?i=react,astro,ts,nodejs,tailwind,next,threejs)](https://skills.thijs.gg)
 
-### Backend
+#### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nestjs,express,spring,dotnet&theme=dark)](https://skills.thijs.gg)
+[![Backend](https://skillicons.dev/icons?i=nestjs,spring,dotnet&theme=dark)](https://skills.thijs.gg)
 
-### Database
+#### Database
 
-[![Database](https://skillicons.dev/icons?i=postgres,docker,firebase,supabase,linux&theme=dark)](https://skills.thijs.gg)
+[![Database](https://skillicons.dev/icons?i=postgres,docker,firebase,supabase&theme=dark)](https://skills.thijs.gg)
 
-### Artificial Intelligence | Data Science
+#### Artificial Intelligence | Data Science
 
 [![DataScience](https://skillicons.dev/icons?i=python,pytorch,r&theme=dark)](https://skills.thijs.gg)
+
+#### Game Development
+
+[![GameDev](https://skillicons.dev/icons?i=godot,unity,cs,lua,blender)](https://skills.thijs.gg)
 
 <b>This is epic! 🌌</b>
 <br>
