@@ -16,15 +16,15 @@
 
 #### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,astro,ts,nodejs,tailwind,next,threejs)](https://skills.thijs.gg)
+[![Frontend](https://skillicons.dev/icons?i=react,astro,ts,nodejs,tailwind,angular,threejs)](https://skills.thijs.gg)
 
 #### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nestjs,spring,dotnet&theme=dark)](https://skills.thijs.gg)
+[![Backend](https://skillicons.dev/icons?i=nestjs,php,spring,dotnet&theme=dark)](https://skills.thijs.gg)
 
 #### Database
 
-[![Database](https://skillicons.dev/icons?i=postgres,docker,firebase,supabase&theme=dark)](https://skills.thijs.gg)
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,docker,firebase,supabase&theme=dark)](https://skills.thijs.gg)
 
 #### Artificial Intelligence | Data Science
 
