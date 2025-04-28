@@ -16,11 +16,11 @@
 
 #### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,astro,ts,nodejs,tailwind,angular,threejs)](https://skills.thijs.gg)
+[![Frontend](https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,svelte,angular,threejs,astro)](https://skills.thijs.gg)
 
 #### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nestjs,php,spring,dotnet&theme=dark)](https://skills.thijs.gg)
+[![Backend](https://skillicons.dev/icons?i=express,nestjs,php,spring,dotnet,redis,go,pnpm&theme=dark)](https://skills.thijs.gg)
 
 #### Database
 
