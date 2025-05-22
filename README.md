@@ -20,11 +20,11 @@
 
 #### Backend
 
-[![Backend](https://skillicons.dev/icons?i=express,nestjs,php,spring,dotnet,redis,go,pnpm&theme=dark)](https://skills.thijs.gg)
+[![Backend](https://skillicons.dev/icons?i=express,nestjs,php,spring,dotnet,redis&theme=dark)](https://skills.thijs.gg)
 
-#### Database
+#### Database | DevOps
 
-[![Database](https://skillicons.dev/icons?i=postgres,mysql,docker,firebase,supabase&theme=dark)](https://skills.thijs.gg)
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,docker,firebase,supabase,githubactions&theme=dark)](https://skills.thijs.gg)
 
 #### Artificial Intelligence | Data Science
 
@@ -32,7 +32,7 @@
 
 #### Game Development
 
-[![GameDev](https://skillicons.dev/icons?i=godot,unity,cs,lua,blender)](https://skills.thijs.gg)
+[![GameDev](https://skillicons.dev/icons?i=godot,unity,cs,lua,js,blender,python)](https://skills.thijs.gg)
 
 <b>This is epic! 🌌</b>
 <br>
